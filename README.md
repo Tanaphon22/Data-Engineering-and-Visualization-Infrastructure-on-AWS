@@ -7,7 +7,8 @@ This project is part of my ETL tool training.
 - **Countries of the World:** [Kaggle Dataset](https://www.kaggle.com/datasets/fernandol/countries-of-the-world)
 
 ## 🏗️ Architecture
-![AWS ETL Architecture](path/to/your/image.png)
+![AWS ETL Architecture](![image](https://github.com/user-attachments/assets/957d40f2-876c-4169-ba5e-bd3aedfec2e5)
+)
 
 ## 🔧 Tools Used
 - **AWS Services:**
