@@ -7,6 +7,9 @@
 ## 🏗️ Architecture
 ![image](https://github.com/user-attachments/assets/caf012ff-75c9-43e2-bce0-a1110d3fbbcc)
 
+![image](https://github.com/user-attachments/assets/e069d965-0ef6-42e6-bf8f-14ac69706d6e)
+
+
 ## 🔧 Tools Used
 - **AWS Services:**
   - Amazon S3
