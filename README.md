@@ -5,7 +5,9 @@
 - **Countries of the World:** [Kaggle Dataset](https://www.kaggle.com/datasets/fernandol/countries-of-the-world)
 
 ## 🏗️ Architecture and Data modeling
-#![image](https://github.com/user-attachments/assets/caf012ff-75c9-43e2-bce0-a1110d3fbbcc)
+![image](https://github.com/user-attachments/assets/caf012ff-75c9-43e2-bce0-a1110d3fbbcc)
+
+
 
 ![image](https://github.com/user-attachments/assets/e069d965-0ef6-42e6-bf8f-14ac69706d6e)
 
