@@ -43,3 +43,5 @@
   - Amazon Redshift
 - **BI Tools:**
   - Power BI
+
+![image](https://github.com/user-attachments/assets/d63c2773-ae42-4746-baf0-ca27eb5456a1)
